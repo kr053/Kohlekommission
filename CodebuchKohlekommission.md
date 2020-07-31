@@ -49,5 +49,6 @@ State (Bundesland)
 8 = Nordrhein-Westfalen
 9 = Rheinland-Pfalz
 10 = Baden-Württemberg
+11 = Niedersachsen
 
 99 = keine Angabe
